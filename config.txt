@@ -1,0 +1,4 @@
+dir=
+port=50000
+vocalprefix=VNRが生成する音声テストです。
+lolikey=
